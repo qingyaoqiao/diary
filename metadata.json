@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Soul Diary",
+  "description": "An interactive 3D audio-reactive journaling experience powered by AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
